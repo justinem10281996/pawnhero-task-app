@@ -10,11 +10,11 @@ Built with React, TypeScript, Tailwind CSS, and shadcn/ui components.
 
 ### Features
 
-- ✨ Modern UI with shadcn/ui components
-- 🎨 Dark theme with Tailwind CSS
-- ⚡ Real-time updates via WebSocket
-- 📱 Responsive design
-- 🔄 Live connection status indicator
+-  Modern UI with shadcn/ui components
+-  Dark theme with Tailwind CSS
+-  Real-time updates via WebSocket
+-  Responsive design
+-  Live connection status indicator
 
 ### Tech Stack
 
@@ -85,10 +85,10 @@ Real-time task management API with WebSocket support using Express, MySQL, and S
 
 ### Features
 
-- 📝 CRUD operations for tasks
-- 🔌 Real-time updates via WebSocket
-- 🗄️ MySQL database
-- 🔄 RESTful API endpoints
+-  CRUD operations for tasks
+-  Real-time updates via WebSocket
+-  MySQL database
+-  RESTful API endpoints
 
 ### Tech Stack
 
